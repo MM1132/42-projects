@@ -1,7 +1,6 @@
 # 42 School projects
 > List of all the 42 school projects I have completed
 
-## List
 ### Milestone 0
 - [libft](https://github.com/MM1132/libft)
 ### Milestone 1
