@@ -14,6 +14,8 @@
 - [minishell](https://github.com/MM1132/minishell)
 - [philosophers](https://github.com/MM1132/philosophers)
 ### Milestone 4
+- [cub3d](https://github.com/MM1132/cub3d)
+- [NetPractice](https://github.com/MM1132/NetPractice)
 #### C++ Modules
 - [CPP-Module-00](https://github.com/MM1132/CPP-Module-00)
 - [CPP-Module-01](https://github.com/MM1132/CPP-Module-01)
