@@ -23,3 +23,7 @@
 - [CPP-Module-03](https://github.com/MM1132/CPP-Module-03)
 - [CPP-Module-04](https://github.com/MM1132/CPP-Module-04)
 - [CPP-Module-05](https://github.com/MM1132/CPP-Module-05)
+- [CPP-Module-06](https://github.com/MM1132/CPP-Module-06)
+- [CPP-Module-07](https://github.com/MM1132/CPP-Module-07)
+- [CPP-Module-08](https://github.com/MM1132/CPP-Module-08)
+- [CPP-Module-09](https://github.com/MM1132/CPP-Module-09)
